@@ -1,2 +1,68 @@
 Em Hoa Cỏ May ở đây để tư vấn Sếp về khóa "Tự động hóa hình ảnh video với AI"
 Sếp inbox nội dung cần tư vấn giúp em Hoa nhé ! 
+Chồng Giỏi AI:
+Tự Động Tạo Video Với N8n Và A.I
+Đăng ký NgayKhóa học dành cho:
+Dành cho bất kỳ ai những người yêu thích tự động hóa công việc, tăng hiệu quả công việc, muốn dùng automation để tự động hóa việc tạo video sử dụng N8n việc việc tạo video quá mất thời gian, gây nhàm chán.
+Mỗi cá nhân, công việc, sản phẩm sẽ có đặc thù riêng, chả có ứng dụng nào đáp ứng được việc tạo video theo ý tưởng của mọi người đâu trừ khi anh em tự tạo ra nó.
+Tạo video tự động tùy chỉnh theo ý tưởng của bạn.
+Có kiến thức về N8n để anh em tự động mọi thứ trong công việc.
+Khóa Này Giúp Được Gì Cho Các Cá Nhân Yêu Thích Tự Động Hóa Công Việc ?
+Cụ Thể Những Gì Bạn Được Học:
+Từ văn bản sẽ tạo ra video (với các video có sẵn trong google drive được ghép lại với nhau)
+Từ link youtube bất kỳ bạn sẽ tạo ra được các video tương tự theo những gì bạn định nghĩa (Video sẽ được lấy từ internet)
+Từ một link website bất kỳ bất sẽ tạo ra video phù hợp với nội dung đó.
+Tự động post nội dung, video, hình ảnh lên đa nền tảng theo lịch trình
+Tại Sao Mấy Bạn Có Tính Cầu Toàn (Nhất Là Mấy Bạn Có Tuổi), Chỉnh Sửa Video Có Khi Mất Cả Ngày Mà Không Được Cái Nào Ra Hồn ?
+Mình khởi nghiệp cũng vậy, làm quái gì có tiền mà thuê ai làm, tự làm hết từ video, hình ảnh để marketing, quảng bá thương hiệu. Nhưng mình chỉnh sửa cả ngày mà chẳng ra kết quả gì, edit mệt nghỉ. Mỗi lần chỉnh xong không hài lòng là lại chỉnh tiếp, thành một vòng lặp vô tận, vừa tốn thời gian vừa nản. Một phần vì bản thân mình hơi cầu toàn.
+Tốt nhất là tìm giải pháp tự động để có kết quả trước, đừng quá cầu toàn. Cứ để nó chạy ra sản phẩm đã, rồi sau đó mới chỉnh sửa và hoàn thiện kịch bản. Nếu không làm vậy, anh em sẽ không bao giờ hoàn thành được. Vì thế, hãy để công việc tự động hóa trước, rồi điều chỉnh lại kích bạn sau nhé anh em.
+Chương Trình Có Gì Khác Biệt ? Tại Sao Bạn Nên Chọn Chương Trình Này ?
+Học theo hình thức vướng đâu gỡ đó, không lý thuyết lan man trong giai đoạn đầu học. Quan trọng là bạn phải quen dần với nền tảng, khi quen rồi thì mọi thứ đơn giản thôi. Mấu chốt là phải quen, phải ứng dụng được nó trước, rồi sau đó cứ ứng dụng nhiều, ứng dụng nhiều bạn sẽ xài được thôi.
+Lưu ý: học cái gì cũng vậy, giai đoạn đầu luôn vật vã, không có cái gì dễ ăn cả. Giống như bạn làm quen với công việc mới thôi, mọi thứ đều lạ lẫm, chả có cái gì dễ ăn cả. Nhất là giai đoạn đầu luôn khó khăn vật vã.
+Mọi người bỏ cuộc thường ở giai đoạn nào ?
+Hầu hết mọi người bỏ cuộc giữa chừng là vì không vượt qua được giai đoạn đầu. Mới đầu bạn nhảy vào học, bạn bị vướng, hay bạn nhìn thấy giao diện không quen, rồi bạn phán câu "khó quá trời ạ" thế là bạn rụng ngay giữa đường mất tiêu.
+Tôi Đang Làm Công Việc Này... Có Áp Dụng Được Không ?
+Mỗi cá nhân, công việc, sản phẩm và sếp đều có nhu cầu tự động hóa riêng. Thực tế, không có công cụ nào đáp ứng được sự linh hoạt trong công việc trừ khi bạn tự tạo ra nó. Ngày nay, chúng ta không cần phải vất vả viết code nữa mà có thể dùng nocode - chỉ cần kéo thả đơn giản là có thể tạo ra công cụ theo ý muốn, từ việc tạo video đến hình ảnh phục vụ công việc của bạn.
+Tôi Yếu Công Nghệ Lắm, Gần Như Số 0 Luôn
+Hầu hết ai mới đầu học cũng đều là số 0 về công nghệ cả thôi, chả ai hơn ai cả đâu, nhưng cứ học tập, thực hành nhiều sẽ quen . Vướng thì gỡ thôi, chỉ là giai đoạn đầu bạn không quen nên sẽ vật vã. Quen rồi sẽ khác.
+Còn mà bạn cứ sợ này, sợ nọ, có 1000 nỗi sợ thì nói thật lòng bạn chả học được gì , bạn nên đưa vào cái thế phải cày thì mới có thành quả.Biết đâu sẽ thay đổi hoàn toàn sự nghiệp với kiến thức này. Vậy nên cứ học đừng sợ gì cả.
+Tôi Không Biết Gì Về Lập Trình Cả.
+Cái này là nocode nên bạn chả cần biết gì về lập trình đâu, thời giờ mọi thứ đã được mô-đun hóa rồi, bạn không phải vật vã với những dòng code nữa đâu.
+Lớn Tuổi Có Học Được Không?
+Học tốt nhé, bên mình học viên hầu như U40, U50, thậm chí U60 vẫn học tốt. Đừng để tuổi tác là rào cản. Cuộc sống giờ chả ai quan tâm bạn lớn tuổi hay nhỏ tuổi đâu, ra ngoài đường hay đi làm cũng chả ai ưu ái cho bạn vì bạn lớn tuổi. Tự bản thân bạn phải cố gắng nỗ lực hàng ngày thôi.
+Chả ai chiếu cố cho bạn khi bạn lớn tuổi cả, thời đại giờ là vậy.
+Tại Sao Khóa Học Lại Thu Phí Thay Vì Miễn Phí ?
+Đây là khóa học chuyên môn, chứ không phải khóa học làm giàu để có thể cho bạn "bay " rồi sau đó bán khóa học chuyên sâu. Để học tốt giai đoạn đầu học tập, bạn luôn phải có gì đó đánh đổi. Ví dụ: tốn chút tài chính, bạn tiếc tiền mà cày, học cho ra kết quả, học cho đáng đồng tiền bát gạo, kiểu như của đau con xót, học cho nó ra kết quả.
+Mình cũng từng tham gia nhiều khóa học miễn phí nhưng chỉ đăng ký thôi và và mình ít khi học, vì thật sự chưa đủ động lực để mình cày. Các khóa học miễn phí chủ yếu là khóa phiễu để họ bán tiếp khóa chuyên sâu cho các bạn.
+Với việc có chút tiền chứng tỏ bạn đã sẵn sàng nghiêm túc về nó, còn ở chế độ thử "xem nó thế nào" rất khó học.
+Mình biết khi nói điều này có thể bị cho là "lùa gà", nhưng qua 5 năm kinh nghiệm đào tạo, mình nhận thấy học viên thường học hiệu quả hơn khi học phí cao. Dù có bị chỉ trích, mình vẫn phải nói ra sự thật này.
+Thế Lỡ Khóa Học Không Phù Hợp Với Tôi Thì Sao ?
+Bạn có thể xem trên kênh YouTube bên mình về cách giảng dạy vướng đâu gỡ đó của mình. Nói thật lòng, có nhiều bạn đăng ký vậy thôi nhưng không có vô học. Nhưng bạn xem cách học của mình và rồi bạn tự chiến, vướng thì hỏi mình thôi, chứ chẳng học bài giảng của mình, thật là ngạc nhiên khi các bạn ấy vẫn học tốt. Khóa học mình là một cái cò khởi động việc học tập của các bạn vậy. Bạn đăng ký để có tinh thần học tập thôi. Còn nếu bạn đăng ký xong trong vòng 7 ngày mà bạn thấy không hài lòng thì hoàn tiền lại thôi (nhưng ít ai nhắn tin bên mình để hoàn tiền lắm).
+Bên mình có lùa gà không?
+Lùa gà hay không phụ thuộc vào học viên là chủ yếu. Hầu hết các khóa học đều bị cho là lùa gà vì tỷ lệ học viên thành công rất thấp. Nhiều lời quảng cáo ngon lành nhưng khi học thực tế không được như mong muốn. Tuy nhiên, nếu không quảng cáo hứa hẹn thì ít ai chịu học. Vậy nên việc ứng dụng kiến thức phụ thuộc vào chính bạn - bạn phải tự tư duy để áp dụng hiệu quả vào công việc.
+Cách để học hiệu quả?
+Yếu tố quan trọng nhất là thái độ học tập. Bạn phải học với tâm thế như đây là cơ hội duy nhất để đột phá công việc. Nhớ nha ! là cơ hội duy nhất.
+Giống như khi bắt đầu một công việc mới - ban đầu kiến thức bằng không, bị đồng nghiệp cũ "ăn hiếp", bị sếp la. Nhưng sau vài tháng, khi đã bắt nhịp được, bạn sẽ làm được hết. Đó là vì bạn bị đặt vào tình thế phải cố gắng: không học, không làm, không thực hành thì sẽ xấu hổ với đồng nghiệp, với sếp và có nguy cơ bị đuổi việc. Vì vậy, bạn thường nỗ lực để hoàn thành công việc. Sau một thời gian, bạn có thể làm được mọi thứ chỉ cần có đề bài, và sẽ không còn bị "ăn hiếp" nữa.
+Giảng viên là ai mà dám đứng ra giảng dạy?
+Mình cũng chỉ là một nhân viên văn phòng bình thường, không có gì nổi bật. Mình quyết định học lập trình để tạo sự khác biệt trong công việc với các đồng nghiệp. Vì "lớn tuổi" mà vẫn làm "lĩnh quèn", không có gì khác biệt nên bị mọi người coi thường, sếp cũng chẳng đánh giá cao.
+Giai đoạn đầu học tập, thật sự mình cũng bỏ cuộc nhiều lần, bỏ rồi học lại tới 4-5 lần. Kiểu như bỏ một thời gian, rồi xem được video truyền động lực lại cày tiếp và rồi lại bỏ, cứ như một vòng lặp vậy. Nhưng sau đó, mình đã nhìn lại bản thân trong quá khứ và tự hỏi tại sao mình luôn yếu kém so với đồng nghiệp. Sau thời gian nhảy việc nhiều nơi, mình nhận ra điều gì đó - lúc thử việc mình học rất nhanh, vậy tại sao khi đi học lại kém cỏi thế?
+Thì ra là do cách học sai. Cách học đúng và đơn giản ở đây là "vướng đâu gỡ đó" - cứ ứng dụng vào công việc thực tế, gặp khó khăn thì tìm cách giải quyết. Bỏ qua lý thuyết đi, hãy làm quen với nền tảng và phần mềm trước. Ví dụ khi bạn dùng Excel, có ai đọc hết lý thuyết về Excel rồi mới thực hành đâu? Chẳng ai làm vậy cả! Bạn cứ nhảy vào dùng Excel luôn, vướng chỗ nào thì lên mạng hỏi hoặc hỏi đồng nghiệp bên cạnh thôi.
+Vậy nên cách học truyền thống có thể phù hợp với nhiều người, nhưng với bạn thì không. Đó là sự thật - có thể bạn và mình yếu là vì học sai phương pháp. Khi mình đổi phương pháp học tập, chỉ 1 tháng mình đã thành thạo được lập trình. Sau đó mình bắt đầu học nocode và cũng vậy, học rất nhanh và hiệu quả. Ăn thua ở đây là cách học.
+Cách học "thực hành trước, lý thuyết sau - vướng đâu gỡ đó" đã thay đổi cả cuộc đời mình và có thể sẽ thay đổi cuộc đời bạn. Đừng lăn tăn quá nhiều, cứ mạnh dạn thực hành trước đã. Nếu không cần thiết, bạn thậm chí không cần học lý thuyết - qua thực hành nhiều, bạn sẽ tự hiểu thôi.
+Chi phí để sử dụng ứng dụng thứ 3 thế nào?
+Về nguyên tắc, chẳng có gì miễn phí, ngay cả khóa học của mình. Trên đời miễn phí chỉ có cứt chim và nước mưa thôi. Nhưng hầu hết các nền tảng đều có phiên bản miễn phí hay dùng thử cả. Thời đại công nghệ mà cái gì bạn cũng trả phí là không chịu nổi, nên bạn hãy tận dụng sự miễn phí trước. Nếu thấy nó hay, ngon lành thì sử dụng. Quan trọng là bạn học được n8n về automation, quan trọng cái đó. Sau đó bạn có thể kết nối với bất kỳ ứng dụng nào để tạo video, hình ảnh phù hợp với tài chính của bạn, nên đừng lo chuyện đó nhé.
+Cách học qua video đúng không? Rảnh giờ nào học giờ đó? Có hỗ trợ gì không?
+Dĩ nhiên có hỗ trợ, học vướng đâu gỡ đó mà. Không hỗ trợ sao bạn học? Hỗ trợ qua Ultraview, Zalo, Zoom. Cách học này phù hợp với bạn tay ngang học tập và ứng dụng vào công việc hơn. Rảnh giờ nào cày giờ đó, cứ tranh thủ thôi, chứ sức đâu mà ngồi nghe mấy thầy giảng chung chung, nghe nó chán lắm, bạn học được chứ mình thì thua nhé.
+Mình không tin bạn lắm, trên mạng lừa đảo nhiều lắm, ai biết được?
+Bạn có thể kiểm tra thông tin bên mình nha, youtube, fanpage, trang cá nhân của mình
+Nếu bạn vẫn chưa tin tưởng, thì mình cũng đành chịu thôi vì không có cách nào khác để thuyết phục
+Học phí khuyến mãi chỉ hôm nay : 1.520.000 VNĐ
+Tự Động Hóa Cuộc Sống Với AI
+Liên hệ
+contact@anhlaptrinh.vn
+Mã số thuế: 0318822989
+Cứ ứng dụng vào công việc đi,
+vướng thì gỡ
+Lầu 5: Toà Nhà ST. MORITZ 1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh
+Công Ty TNHH Anh Lập Trình
+0914972102
